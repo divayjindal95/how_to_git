@@ -25,5 +25,11 @@ git log : check all the commits , also git log --summary can be used
 
 git remote add "name" "url of repository"  : here name = orgin and url is the url of the repository
 
+git pull origin master : for changing in 
+
+git clone "url" :
+
+git branch "name"  :
+
 
 
